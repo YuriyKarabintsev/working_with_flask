@@ -7,3 +7,7 @@ form.login_form {
     border-radius: 5px;
     padding: 10px;
 }
+h1, h3 {
+    color: #3f5e3f;
+    font-style: italic;
+}
